@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi 👋 I am Pedro!
+I am a student of computer technician at IFSUL and I am currently doing an internship in the area of software development.
 
-<!--
-**PedroTeixeiraa/PedroTeixeiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<a href="https://www.linkedin.com/in/pedro-teixeira-alves/" target="_blank" rel="nofollow">
+  <img  alt="Pedro's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:pedroteixeiraalves007@gmail.com" target="_blank" rel="nofollow">
+  <img  alt="Pedro's email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<p/>
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=pedroteixeiraa&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pedroteixeiraa&hide=TSQL,css&theme=radical">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>

@@ -1,5 +1,5 @@
 ## Hi 👋 I am Pedro!
-I am a student of computer technician at IFSUL and I am currently doing an internship in the area of software development.
+I'm a Java backend developer with intermediate-level expertise and a Computer Science student.
 
 ---
 <a href="https://www.linkedin.com/in/pedro-teixeira-alves/" target="_blank" rel="nofollow">
